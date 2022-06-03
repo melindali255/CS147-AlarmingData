@@ -1,4 +1,4 @@
-# CS147 Final Project -AlarmingData
+# CS147 Final Project - AlarmingData
 
 Our project aims to track the environmental factors of temperature, humidity, and light that affect the user’s waking up experience. With a functioning alarm clock and data visualizations, the user will be able to view how the environment may affect how they wake up and adjust accordingly.
 
